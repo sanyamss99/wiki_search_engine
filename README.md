@@ -9,4 +9,8 @@ wikipidea dump file link :
 https://dumps.wikimedia.org/enwiki/latest/
 
 
-<img src="C:\Users\hp\Pictures\Screenshots\wikiss">
+
+
+
+![wikiss](https://user-images.githubusercontent.com/41481020/98165332-b5323580-1f0b-11eb-9b3b-215699bb8e63.png)
+
