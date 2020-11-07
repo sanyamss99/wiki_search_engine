@@ -12,9 +12,9 @@ https://dumps.wikimedia.org/enwiki/latest/
 It is a search engine based on k-way merge sort based indexing and further uses relevance ranking using tf-idf scores.
 
 <h2> Challenges </h2>
-  -> Difficult to process such huge Data dump of 73 GB <br>
+  -> Difficult to process such huge Data dump of 75+ GB <br>
   -> Can not store word & its posting list into a main memory, So Used K-way Merge sort <br>
-  -> Can not Load full final index into main memory, So Bild Secondary Index on top of Primary Index (Posting List) <br>
+  -> Can not Load full final index into main memory, So Build Secondary Index on top of Primary Index (Posting List) <br>
 
 <h3> phase 1 </h3>
   -> Used title, infobox and category to build indexes. <br>
