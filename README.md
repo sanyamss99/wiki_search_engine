@@ -22,7 +22,6 @@ It is a search engine based on k-way merge sort based indexing and further uses 
   
  <h3> TODO : phase 2 </h3>
     -> Use body(text) of the wikipedia pages as well to increase relevancy. <br>
-    -> return the URLs of the wikipedia pages instead of titles <br>
 
 
 <h3> phase 1 sample result </h3>
