@@ -27,5 +27,5 @@ It is a search engine based on k-way merge sort based indexing and further uses 
 
 <h3> phase 1 sample result </h3>
 
-![wikiss](https://user-images.githubusercontent.com/41481020/98165332-b5323580-1f0b-11eb-9b3b-215699bb8e63.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/41481020/98722383-1ac46d00-23b7-11eb-8ac3-1e5b1e22f049.png)
 
